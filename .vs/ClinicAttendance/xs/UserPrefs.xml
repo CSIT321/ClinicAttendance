@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{9D5D9F08-F323-479D-89A6-2C5BF78F1515}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClinicAttendance/Views/MainPage.cs">
+    <Files>
+      <File FileName="ClinicAttendance/Views/MainPage.cs" Line="29" Column="23" />
+      <File FileName="iOS/LoginViewController.cs" Line="28" Column="10" />
+      <File FileName="iOS/LaunchScreen.storyboard" />
+      <File FileName="iOS/Storyboard.storyboard" />
+      <File FileName="iOS/LoginViewController.xib" />
+      <File FileName="iOS/LoginViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="ClinicAttendance/ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+      <File FileName="ClinicAttendance/Views/ItemsPage.xaml" Line="23" Column="1" />
+      <File FileName="ClinicAttendance/Views/NewItemPage.xaml" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClinicAttendance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1C36E702-7519-4888-8CA8-4FC4A395B4F9" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClinicAttendance.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>
